@@ -26,4 +26,3 @@ Here are some ideas to get you started:
 
 🔗 Connect with me to collaborate on exciting projects and explore the endless possibilities at the intersection of data, code, and science 🤝💡
 
-Feel free to personalize and expand upon this bio to make it your own, and don't forget to include specific projects or achievements that showcase your skills and interests in these domains.
