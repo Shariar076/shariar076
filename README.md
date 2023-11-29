@@ -1,28 +1,20 @@
-### Hi there 👋
+### Hi there. I am Shariar Kabir 👋
 
 <!--
 **Shariar076/shariar076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-->
+- 🔭 I’m currently working as a Senior AI Research Engineer at Celloscope Limited in Dhaka, Bangladesh
+- 🌱 I’m currently learning and pursuing the cutting-edge in Machine Learning and Natural Language Processing (NLP) 🧠
+- 💡 My background is in data science, machine learning, distributed computing and software developement
+- 🚀 I specialize in exploring data-driven insights and developing intelligent solutions 📊🔬
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 How to reach me: ...
 -->
-🚀 Pursuing the cutting-edge in Machine Learning and Natural Language Processing (NLP) 🧠
-
-💡 Leveraging a background in data science, distributed computing, and bioinformatics to create data-driven insights and deploy intelligent solutions 📊🔬
-
-🌐 Web Developer | DevOps enthusiast - Bridging the gap between data science and production deployment 🚀
-
-🧬 Bioinformatics explorer - Unraveling the secrets of life through data 🧪
-
-📚 Constantly learning and experimenting with SOTA ML and NLP tools to tackle complex problems 📈
-
-🔗 Connect with me to collaborate on exciting projects and explore the endless possibilities at the intersection of data, code, and science 🤝💡
-
