@@ -1,4 +1,4 @@
-### Hi there. I am Shariar Kabir 👋
+### Hi there. I am Shariar 👋
 
 <!--
 **Shariar076/shariar076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
