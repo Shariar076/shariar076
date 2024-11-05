@@ -1,6 +1,6 @@
 ### Hi there. I am Shariar 👋
 [![Portfolio](https://img.shields.io/badge/portfolio-028090?logo=githubsponsors)](https://shariar076.github.io/) [![Linkedin](https://img.shields.io/badge/linkedin-0b66c2?logo=linkedin)](https://www.linkedin.com/in/shariar076/)
-![](https://hit.yhype.me/github/profile?user_id=shariar076)
+![](https://komarev.com/ghpvc/?username=shariar076)
 <!-- [![Github](https://img.shields.io/badge/github-black?logo=github)](https://github.com/AmanAgarwal041) [![Medium](https://img.shields.io/badge/medium-black?logo=medium)](https://medium.com/@amanagarwal_99464) [![Linkedin](https://img.shields.io/badge/npm-EC4E20?logo=npm)](https://www.npmjs.com/~typeofnull) -->
 
 <!--
