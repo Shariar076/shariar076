@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working as a Senior AI Research Engineer at Celloscope Limited in Dhaka, Bangladesh
 - 🌱 I’m currently learning and pursuing the cutting-edge in Machine Learning and Natural Language Processing (NLP) 🧠
-- 💡 My background is in data science, machine learning, distributed computing and software developement
+- 💡 My background is in data science, machine learning, distributed computing and software development
 - 🚀 I specialize in exploring data-driven insights and developing intelligent solutions 📊🔬
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -20,3 +20,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 📫 How to reach me: ...
 -->
+## Github Stats
+<div align="center">
+    
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahariar-shibli&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahariar-shibli&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahariar-shibli&theme=dracula&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahariar-shibli&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahariar-shibli&theme=apprentice)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shahariar-shibli&theme=dracula&card_width=700)](https://git.io/streak-stats)
