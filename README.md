@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shariar076&theme=aura) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shariar076&theme=dracula&utcOffset=8)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shariar076&theme=apprentice)
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shariar076&theme=apprentice) -->
 
