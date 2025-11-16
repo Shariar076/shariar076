@@ -32,5 +32,6 @@ Here are some ideas to get you started:
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shariar076&theme=apprentice) -->
 
 <!--  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes) -->
-
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=shariar076&theme=dracula&card_width=700)](https://git.io/streak-stats)
+-->
